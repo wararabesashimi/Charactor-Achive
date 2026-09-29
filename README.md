@@ -11,4 +11,5 @@
 基本設計：着手中
 
 ## 参考資料
-[「要件定義書」を作成してみる](https://qiita.com/minimumskills/items/f9589953d48118d9f71f)
+- [「要件定義書」を作成してみる](https://qiita.com/minimumskills/items/f9589953d48118d9f71f)
+- [要件定義｜3分で読める非機能要件について](https://qiita.com/ho__na/items/a84f9a0db793cb0411db)
