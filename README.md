@@ -10,6 +10,9 @@
 要件定義：完了<br>
 基本設計：着手中
 
+作業管理表↓はGoogleスプレッドシートで作成
+![現在の作業管理表](/images/ToDo.png)
+
 ## 参考資料
 - [「要件定義書」を作成してみる](https://qiita.com/minimumskills/items/f9589953d48118d9f71f)
 - [要件定義｜3分で読める非機能要件について](https://qiita.com/ho__na/items/a84f9a0db793cb0411db)
